@@ -61,6 +61,18 @@ table {
   padding:10px;
 }
 
+.container {
+  max-width: 60%;
+  margin:auto;
+  float: auto;
+  padding: 20px;
+  background-color: #FFFFFF
+}
+
+.caption {
+  font-size: .80em;
+}
+
 /* Start your base/mobile styles here */
 
 html, body {
