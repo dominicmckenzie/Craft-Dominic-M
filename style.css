@@ -55,7 +55,11 @@ table {
 
 
 /* BEGIN YOUR STYLES HERE */
-
+.photo{
+  max-width: 50%;
+  margin-right: auto;
+  padding:10px;
+}
 
 /* Start your base/mobile styles here */
 
