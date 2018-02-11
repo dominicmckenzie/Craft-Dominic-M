@@ -21,6 +21,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     margin: 0;
     padding: 0;
     border: 0;
+    width: 100%;
     vertical-align: baseline;
 }
 
@@ -55,16 +56,15 @@ table {
 
 
 /* BEGIN YOUR STYLES HERE */
-.photo{
-  max-width: 50%;
-  margin-right: auto;
+/* .photo{
+  max-width: 100%;
   padding:10px;
-}
+} */
 
 .container {
-  max-width: 60%;
+  max-width: 70%;
   margin:auto;
-  float: auto;
+  /* float: auto; */
   padding: 20px;
   background-color: #FFFFFF
 }
